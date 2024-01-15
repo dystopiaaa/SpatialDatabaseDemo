@@ -1,0 +1,1 @@
+SELECT job_id,job_location.Long AS Long,job_location.Lat AS Lat FROM sys_job

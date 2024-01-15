@@ -1,0 +1,153 @@
+F:\use_file\C#程序开发练习\PWMS_SYSTEM_V1.0\PWMS_SYSTEM_V1.0\bin\Debug\PWMS_SYSTEM_V1.0.exe
+F:\use_file\C#程序开发练习\PWMS_SYSTEM_V1.0\PWMS_SYSTEM_V1.0\bin\Debug\PWMS_SYSTEM_V1.0.pdb
+F:\use_file\C#程序开发练习\PWMS_SYSTEM_V1.0\PWMS_SYSTEM_V1.0\bin\Debug\Microsoft.Office.Interop.Word.dll
+F:\use_file\C#程序开发练习\PWMS_SYSTEM_V1.0\PWMS_SYSTEM_V1.0\bin\Debug\Microsoft.Vbe.Interop.dll
+F:\use_file\C#程序开发练习\PWMS_SYSTEM_V1.0\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1._0.F_LogIn.resources
+F:\use_file\C#程序开发练习\PWMS_SYSTEM_V1.0\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1._0.F_Main.resources
+F:\use_file\C#程序开发练习\PWMS_SYSTEM_V1.0\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1._0.InfoAddForm.F_Address.resources
+F:\use_file\C#程序开发练习\PWMS_SYSTEM_V1.0\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1._0.InfoAddForm.F_Basic.resources
+F:\use_file\C#程序开发练习\PWMS_SYSTEM_V1.0\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1._0.InfoAddForm.F_ClewSet.resources
+F:\use_file\C#程序开发练习\PWMS_SYSTEM_V1.0\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1._0.Perform.F_AddressList.resources
+F:\use_file\C#程序开发练习\PWMS_SYSTEM_V1.0\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1._0.Perform.F_ClearData.resources
+F:\use_file\C#程序开发练习\PWMS_SYSTEM_V1.0\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1._0.Perform.F_Find.resources
+F:\use_file\C#程序开发练习\PWMS_SYSTEM_V1.0\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1._0.Perform.F_HaveBack.resources
+F:\use_file\C#程序开发练习\PWMS_SYSTEM_V1.0\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1._0.Perform.F_ManFile.resources
+F:\use_file\C#程序开发练习\PWMS_SYSTEM_V1.0\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1._0.Perform.F_Stat.resources
+F:\use_file\C#程序开发练习\PWMS_SYSTEM_V1.0\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1._0.Perform.F_UserAdd.resources
+F:\use_file\C#程序开发练习\PWMS_SYSTEM_V1.0\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1._0.Perform.F_User.resources
+F:\use_file\C#程序开发练习\PWMS_SYSTEM_V1.0\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1._0.Perform.F_UserPope.resources
+F:\use_file\C#程序开发练习\PWMS_SYSTEM_V1.0\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1._0.Perform.F_WordPad.resources
+F:\use_file\C#程序开发练习\PWMS_SYSTEM_V1.0\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1._0.Properties.Resources.resources
+F:\use_file\C#程序开发练习\PWMS_SYSTEM_V1.0\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1.0.csproj.GenerateResource.Cache
+F:\use_file\C#程序开发练习\PWMS_SYSTEM_V1.0\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1.0.exe
+F:\use_file\C#程序开发练习\PWMS_SYSTEM_V1.0\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1.0.pdb
+C:\Users\30136\Desktop\空间数据库原理与设计\实验\实验7\PWMS_System_simpleCode-master\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\bin\Debug\PWMS_SYSTEM_V1.0.exe
+C:\Users\30136\Desktop\空间数据库原理与设计\实验\实验7\PWMS_System_simpleCode-master\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\bin\Debug\PWMS_SYSTEM_V1.0.pdb
+C:\Users\30136\Desktop\空间数据库原理与设计\实验\实验7\PWMS_System_simpleCode-master\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\bin\Debug\Microsoft.Office.Interop.Word.dll
+C:\Users\30136\Desktop\空间数据库原理与设计\实验\实验7\PWMS_System_simpleCode-master\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\30136\Desktop\空间数据库原理与设计\实验\实验7\PWMS_System_simpleCode-master\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1.0.csproj.AssemblyReference.cache
+C:\Users\30136\Desktop\空间数据库原理与设计\实验\实验7\PWMS_System_simpleCode-master\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1._0.F_LogIn.resources
+C:\Users\30136\Desktop\空间数据库原理与设计\实验\实验7\PWMS_System_simpleCode-master\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1._0.F_Main.resources
+C:\Users\30136\Desktop\空间数据库原理与设计\实验\实验7\PWMS_System_simpleCode-master\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1._0.InfoAddForm.F_Address.resources
+C:\Users\30136\Desktop\空间数据库原理与设计\实验\实验7\PWMS_System_simpleCode-master\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1._0.InfoAddForm.F_Basic.resources
+C:\Users\30136\Desktop\空间数据库原理与设计\实验\实验7\PWMS_System_simpleCode-master\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1._0.InfoAddForm.F_ClewSet.resources
+C:\Users\30136\Desktop\空间数据库原理与设计\实验\实验7\PWMS_System_simpleCode-master\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1._0.Perform.F_AddressList.resources
+C:\Users\30136\Desktop\空间数据库原理与设计\实验\实验7\PWMS_System_simpleCode-master\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1._0.Perform.F_ClearData.resources
+C:\Users\30136\Desktop\空间数据库原理与设计\实验\实验7\PWMS_System_simpleCode-master\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1._0.Perform.F_Find.resources
+C:\Users\30136\Desktop\空间数据库原理与设计\实验\实验7\PWMS_System_simpleCode-master\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1._0.Perform.F_HaveBack.resources
+C:\Users\30136\Desktop\空间数据库原理与设计\实验\实验7\PWMS_System_simpleCode-master\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1._0.Perform.F_ManFile.resources
+C:\Users\30136\Desktop\空间数据库原理与设计\实验\实验7\PWMS_System_simpleCode-master\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1._0.Perform.F_Stat.resources
+C:\Users\30136\Desktop\空间数据库原理与设计\实验\实验7\PWMS_System_simpleCode-master\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1._0.Perform.F_UserAdd.resources
+C:\Users\30136\Desktop\空间数据库原理与设计\实验\实验7\PWMS_System_simpleCode-master\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1._0.Perform.F_User.resources
+C:\Users\30136\Desktop\空间数据库原理与设计\实验\实验7\PWMS_System_simpleCode-master\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1._0.Perform.F_UserPope.resources
+C:\Users\30136\Desktop\空间数据库原理与设计\实验\实验7\PWMS_System_simpleCode-master\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1._0.Perform.F_WordPad.resources
+C:\Users\30136\Desktop\空间数据库原理与设计\实验\实验7\PWMS_System_simpleCode-master\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1._0.Properties.Resources.resources
+C:\Users\30136\Desktop\空间数据库原理与设计\实验\实验7\PWMS_System_simpleCode-master\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1.0.csproj.GenerateResource.cache
+C:\Users\30136\Desktop\空间数据库原理与设计\实验\实验7\PWMS_System_simpleCode-master\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1.0.csproj.CoreCompileInputs.cache
+C:\Users\30136\Desktop\空间数据库原理与设计\实验\实验7\PWMS_System_simpleCode-master\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1.0.csproj.CopyComplete
+C:\Users\30136\Desktop\空间数据库原理与设计\实验\实验7\PWMS_System_simpleCode-master\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1.0.exe
+C:\Users\30136\Desktop\空间数据库原理与设计\实验\实验7\PWMS_System_simpleCode-master\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1.0.pdb
+C:\Users\栀柠丶\Desktop\sy7\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\bin\Debug\PWMS_SYSTEM_V1.0.exe
+C:\Users\栀柠丶\Desktop\sy7\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\bin\Debug\PWMS_SYSTEM_V1.0.pdb
+C:\Users\栀柠丶\Desktop\sy7\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\bin\Debug\Microsoft.Office.Interop.Word.dll
+C:\Users\栀柠丶\Desktop\sy7\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\栀柠丶\Desktop\sy7\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1.0.csproj.AssemblyReference.cache
+C:\Users\栀柠丶\Desktop\sy7\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1._0.F_LogIn.resources
+C:\Users\栀柠丶\Desktop\sy7\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1._0.F_Main.resources
+C:\Users\栀柠丶\Desktop\sy7\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1._0.InfoAddForm.F_Address.resources
+C:\Users\栀柠丶\Desktop\sy7\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1._0.InfoAddForm.F_Basic.resources
+C:\Users\栀柠丶\Desktop\sy7\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1._0.InfoAddForm.F_ClewSet.resources
+C:\Users\栀柠丶\Desktop\sy7\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1._0.Perform.F_AddressList.resources
+C:\Users\栀柠丶\Desktop\sy7\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1._0.Perform.F_ClearData.resources
+C:\Users\栀柠丶\Desktop\sy7\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1._0.Perform.F_Find.resources
+C:\Users\栀柠丶\Desktop\sy7\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1._0.Perform.F_HaveBack.resources
+C:\Users\栀柠丶\Desktop\sy7\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1._0.Perform.F_ManFile.resources
+C:\Users\栀柠丶\Desktop\sy7\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1._0.Perform.F_Stat.resources
+C:\Users\栀柠丶\Desktop\sy7\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1._0.Perform.F_UserAdd.resources
+C:\Users\栀柠丶\Desktop\sy7\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1._0.Perform.F_User.resources
+C:\Users\栀柠丶\Desktop\sy7\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1._0.Perform.F_UserPope.resources
+C:\Users\栀柠丶\Desktop\sy7\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1._0.Perform.F_WordPad.resources
+C:\Users\栀柠丶\Desktop\sy7\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1._0.Properties.Resources.resources
+C:\Users\栀柠丶\Desktop\sy7\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1.0.csproj.GenerateResource.cache
+C:\Users\栀柠丶\Desktop\sy7\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1.0.csproj.CoreCompileInputs.cache
+C:\Users\栀柠丶\Desktop\sy7\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1.0.csproj.CopyComplete
+C:\Users\栀柠丶\Desktop\sy7\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1.0.exe
+C:\Users\栀柠丶\Desktop\sy7\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1.0.pdb
+C:\Users\栀柠丶\Desktop\1315 C# 企业人事管理系统源码(含sql数据库)\sy7\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1.0.csproj.AssemblyReference.cache
+C:\Users\栀柠丶\Desktop\1315 C# 企业人事管理系统源码(含sql数据库)\sy7\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1._0.F_LogIn.resources
+C:\Users\栀柠丶\Desktop\1315 C# 企业人事管理系统源码(含sql数据库)\sy7\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1._0.F_Main.resources
+C:\Users\栀柠丶\Desktop\1315 C# 企业人事管理系统源码(含sql数据库)\sy7\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1._0.InfoAddForm.F_Address.resources
+C:\Users\栀柠丶\Desktop\1315 C# 企业人事管理系统源码(含sql数据库)\sy7\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1._0.InfoAddForm.F_Basic.resources
+C:\Users\栀柠丶\Desktop\1315 C# 企业人事管理系统源码(含sql数据库)\sy7\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1._0.InfoAddForm.F_ClewSet.resources
+C:\Users\栀柠丶\Desktop\1315 C# 企业人事管理系统源码(含sql数据库)\sy7\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1._0.Perform.F_AddressList.resources
+C:\Users\栀柠丶\Desktop\1315 C# 企业人事管理系统源码(含sql数据库)\sy7\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1._0.Perform.F_ClearData.resources
+C:\Users\栀柠丶\Desktop\1315 C# 企业人事管理系统源码(含sql数据库)\sy7\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1._0.Perform.F_Find.resources
+C:\Users\栀柠丶\Desktop\1315 C# 企业人事管理系统源码(含sql数据库)\sy7\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1._0.Perform.F_HaveBack.resources
+C:\Users\栀柠丶\Desktop\1315 C# 企业人事管理系统源码(含sql数据库)\sy7\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1._0.Perform.F_ManFile.resources
+C:\Users\栀柠丶\Desktop\1315 C# 企业人事管理系统源码(含sql数据库)\sy7\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1._0.Perform.F_Stat.resources
+C:\Users\栀柠丶\Desktop\1315 C# 企业人事管理系统源码(含sql数据库)\sy7\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1._0.Perform.F_UserAdd.resources
+C:\Users\栀柠丶\Desktop\1315 C# 企业人事管理系统源码(含sql数据库)\sy7\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1._0.Perform.F_User.resources
+C:\Users\栀柠丶\Desktop\1315 C# 企业人事管理系统源码(含sql数据库)\sy7\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1._0.Perform.F_UserPope.resources
+C:\Users\栀柠丶\Desktop\1315 C# 企业人事管理系统源码(含sql数据库)\sy7\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1._0.Perform.F_WordPad.resources
+C:\Users\栀柠丶\Desktop\1315 C# 企业人事管理系统源码(含sql数据库)\sy7\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1._0.Properties.Resources.resources
+C:\Users\栀柠丶\Desktop\1315 C# 企业人事管理系统源码(含sql数据库)\sy7\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1.0.csproj.GenerateResource.cache
+C:\Users\栀柠丶\Desktop\1315 C# 企业人事管理系统源码(含sql数据库)\sy7\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1.0.csproj.CoreCompileInputs.cache
+C:\Users\栀柠丶\Desktop\1315 C# 企业人事管理系统源码(含sql数据库)\sy7\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1.0.exe
+C:\Users\栀柠丶\Desktop\1315 C# 企业人事管理系统源码(含sql数据库)\sy7\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1.0.pdb
+C:\Users\栀柠丶\Desktop\1315 C# 企业人事管理系统源码(含sql数据库)\sy7\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\bin\Debug\PWMS_SYSTEM_V1.0.exe
+C:\Users\栀柠丶\Desktop\1315 C# 企业人事管理系统源码(含sql数据库)\sy7\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\bin\Debug\PWMS_SYSTEM_V1.0.pdb
+C:\Users\栀柠丶\Desktop\1315 C# 企业人事管理系统源码(含sql数据库)\sy7\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\bin\Debug\Microsoft.Office.Interop.Word.dll
+C:\Users\栀柠丶\Desktop\1315 C# 企业人事管理系统源码(含sql数据库)\sy7\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\栀柠丶\Desktop\1315 C# 企业人事管理系统源码(含sql数据库)\sy7\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1.0.csproj.CopyComplete
+C:\Users\30136\Desktop\sy7\sy7\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\bin\Debug\PWMS_SYSTEM_V1.0.exe
+C:\Users\30136\Desktop\sy7\sy7\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\bin\Debug\PWMS_SYSTEM_V1.0.pdb
+C:\Users\30136\Desktop\sy7\sy7\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\bin\Debug\Microsoft.Office.Interop.Word.dll
+C:\Users\30136\Desktop\sy7\sy7\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\30136\Desktop\sy7\sy7\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1.0.csproj.AssemblyReference.cache
+C:\Users\30136\Desktop\sy7\sy7\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1._0.F_LogIn.resources
+C:\Users\30136\Desktop\sy7\sy7\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1._0.F_Main.resources
+C:\Users\30136\Desktop\sy7\sy7\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1._0.InfoAddForm.F_Address.resources
+C:\Users\30136\Desktop\sy7\sy7\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1._0.InfoAddForm.F_Basic.resources
+C:\Users\30136\Desktop\sy7\sy7\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1._0.InfoAddForm.F_ClewSet.resources
+C:\Users\30136\Desktop\sy7\sy7\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1._0.Perform.F_AddressList.resources
+C:\Users\30136\Desktop\sy7\sy7\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1._0.Perform.F_ClearData.resources
+C:\Users\30136\Desktop\sy7\sy7\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1._0.Perform.F_Find.resources
+C:\Users\30136\Desktop\sy7\sy7\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1._0.Perform.F_HaveBack.resources
+C:\Users\30136\Desktop\sy7\sy7\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1._0.Perform.F_ManFile.resources
+C:\Users\30136\Desktop\sy7\sy7\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1._0.Perform.F_Stat.resources
+C:\Users\30136\Desktop\sy7\sy7\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1._0.Perform.F_UserAdd.resources
+C:\Users\30136\Desktop\sy7\sy7\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1._0.Perform.F_User.resources
+C:\Users\30136\Desktop\sy7\sy7\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1._0.Perform.F_UserPope.resources
+C:\Users\30136\Desktop\sy7\sy7\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1._0.Perform.F_WordPad.resources
+C:\Users\30136\Desktop\sy7\sy7\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1._0.Properties.Resources.resources
+C:\Users\30136\Desktop\sy7\sy7\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1.0.csproj.GenerateResource.cache
+C:\Users\30136\Desktop\sy7\sy7\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1.0.csproj.CoreCompileInputs.cache
+C:\Users\30136\Desktop\sy7\sy7\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1.0.csproj.CopyComplete
+C:\Users\30136\Desktop\sy7\sy7\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1.0.exe
+C:\Users\30136\Desktop\sy7\sy7\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1.0.pdb
+C:\Users\86175\Desktop\实验7\sy7\sy7\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\bin\Debug\PWMS_SYSTEM_V1.0.exe
+C:\Users\86175\Desktop\实验7\sy7\sy7\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\bin\Debug\PWMS_SYSTEM_V1.0.pdb
+C:\Users\86175\Desktop\实验7\sy7\sy7\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\bin\Debug\Microsoft.Office.Interop.Word.dll
+C:\Users\86175\Desktop\实验7\sy7\sy7\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\86175\Desktop\实验7\sy7\sy7\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1.0.csproj.AssemblyReference.cache
+C:\Users\86175\Desktop\实验7\sy7\sy7\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1._0.F_LogIn.resources
+C:\Users\86175\Desktop\实验7\sy7\sy7\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1._0.F_Main.resources
+C:\Users\86175\Desktop\实验7\sy7\sy7\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1._0.InfoAddForm.F_Address.resources
+C:\Users\86175\Desktop\实验7\sy7\sy7\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1._0.InfoAddForm.F_Basic.resources
+C:\Users\86175\Desktop\实验7\sy7\sy7\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1._0.InfoAddForm.F_ClewSet.resources
+C:\Users\86175\Desktop\实验7\sy7\sy7\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1._0.Perform.F_AddressList.resources
+C:\Users\86175\Desktop\实验7\sy7\sy7\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1._0.Perform.F_ClearData.resources
+C:\Users\86175\Desktop\实验7\sy7\sy7\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1._0.Perform.F_Find.resources
+C:\Users\86175\Desktop\实验7\sy7\sy7\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1._0.Perform.F_HaveBack.resources
+C:\Users\86175\Desktop\实验7\sy7\sy7\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1._0.Perform.F_ManFile.resources
+C:\Users\86175\Desktop\实验7\sy7\sy7\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1._0.Perform.F_Stat.resources
+C:\Users\86175\Desktop\实验7\sy7\sy7\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1._0.Perform.F_UserAdd.resources
+C:\Users\86175\Desktop\实验7\sy7\sy7\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1._0.Perform.F_User.resources
+C:\Users\86175\Desktop\实验7\sy7\sy7\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1._0.Perform.F_UserPope.resources
+C:\Users\86175\Desktop\实验7\sy7\sy7\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1._0.Perform.F_WordPad.resources
+C:\Users\86175\Desktop\实验7\sy7\sy7\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1._0.Properties.Resources.resources
+C:\Users\86175\Desktop\实验7\sy7\sy7\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1.0.csproj.GenerateResource.cache
+C:\Users\86175\Desktop\实验7\sy7\sy7\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1.0.csproj.CoreCompileInputs.cache
+C:\Users\86175\Desktop\实验7\sy7\sy7\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1.0.csproj.CopyComplete
+C:\Users\86175\Desktop\实验7\sy7\sy7\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1.0.exe
+C:\Users\86175\Desktop\实验7\sy7\sy7\PWMS_System_simpleCode-master\PWMS_SYSTEM_V1.0\obj\Debug\PWMS_SYSTEM_V1.0.pdb

@@ -1,0 +1,15 @@
+D:\SpatialDatabaseDemo\ManageSystem\bin\Debug\InformationManageSystem.exe.config
+D:\SpatialDatabaseDemo\ManageSystem\bin\Debug\InformationManageSystem.exe
+D:\SpatialDatabaseDemo\ManageSystem\bin\Debug\InformationManageSystem.pdb
+D:\SpatialDatabaseDemo\ManageSystem\obj\Debug\InformationManageSystem.csproj.AssemblyReference.cache
+D:\SpatialDatabaseDemo\ManageSystem\obj\Debug\InformationManageSystem.LoginForm.resources
+D:\SpatialDatabaseDemo\ManageSystem\obj\Debug\InformationManageSystem.MainForm.resources
+D:\SpatialDatabaseDemo\ManageSystem\obj\Debug\InformationManageSystem.Properties.Resources.resources
+D:\SpatialDatabaseDemo\ManageSystem\obj\Debug\InformationManageSystem.TableForm.resources
+D:\SpatialDatabaseDemo\ManageSystem\obj\Debug\InformationManageSystem.csproj.GenerateResource.cache
+D:\SpatialDatabaseDemo\ManageSystem\obj\Debug\InformationManageSystem.csproj.CoreCompileInputs.cache
+D:\SpatialDatabaseDemo\ManageSystem\obj\Debug\InformationManageSystem.exe
+D:\SpatialDatabaseDemo\ManageSystem\obj\Debug\InformationManageSystem.pdb
+D:\SpatialDatabaseDemo\ManageSystem\obj\Debug\InformationManageSystem.AddForm.resources
+D:\SpatialDatabaseDemo\ManageSystem\obj\Debug\InformationManageSystem.DelForm.resources
+D:\SpatialDatabaseDemo\ManageSystem\obj\Debug\InformationManageSystem.MapForm.resources
